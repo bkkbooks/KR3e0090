@@ -1,0 +1,4035 @@
+canonical_identifier: bkk:krp/KR3e0090/v1
+canonical_location: https://kanripo.org/bkk/KR3e0090/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 御纂醫宗金鑑
+  date: '2015-08-24 23:08:31.229675'
+  source:
+    repository: kanripo
+    path: KR3e0090
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - seq: 0
+    filename: KR3e0090_000.yaml
+    hash: sha256:8e93bd35ef8c00f5558d23804035499c40a154ec94c4bd6d1b0d39b22a041e89
+  - seq: 1
+    filename: KR3e0090_001.yaml
+    hash: sha256:b82d392f53548c774ad892bac0b11549590fdf9d68b6e63e05a41ab50b48ae09
+  - seq: 2
+    filename: KR3e0090_002.yaml
+    hash: sha256:2ebb5f614f76d80abdf13e52f2517ba0f3bbed248fd33ddf3086b9c428ce6ee3
+  - seq: 3
+    filename: KR3e0090_003.yaml
+    hash: sha256:0c416e5cad2c623781bded6e9938a1af8bfc952635bbbfb8c5501dbc5a8d9e9b
+  - seq: 4
+    filename: KR3e0090_004.yaml
+    hash: sha256:2d1fad962a64d58c309bf76c342cec3d8556ba54793e5408a6468669effdaed8
+  - seq: 5
+    filename: KR3e0090_005.yaml
+    hash: sha256:2234d1f2f1ae7648df2b70477d5f9fdeb760eb9f57190a7d7e73ff4635b6f38a
+  - seq: 6
+    filename: KR3e0090_006.yaml
+    hash: sha256:89e2c9bb4b6201d867e196739483de776deacf01b525643959c56e41bf21a726
+  - seq: 7
+    filename: KR3e0090_007.yaml
+    hash: sha256:7adff042b884d4d24ad638ff7a078fb7d40760106cde5ac53de1c081b1b87f6b
+  - seq: 8
+    filename: KR3e0090_008.yaml
+    hash: sha256:8d6f51cfa220df4d7cccec43ca5bce91c1ff5599e26e3147548df92be997e0d2
+  - seq: 9
+    filename: KR3e0090_009.yaml
+    hash: sha256:87ee5d76b376a74f566aaa5ee2bf202fad8053ccabed24d806287ba7ac6ce99f
+  - seq: 10
+    filename: KR3e0090_010.yaml
+    hash: sha256:0fe27eca32e4f75049962f681c433c0cd08cf5fd24ad6aa311d0ff57973fd864
+  - seq: 11
+    filename: KR3e0090_011.yaml
+    hash: sha256:8100b3f3ab191c1ba27b97df19596a0a302eedc595df08f771e06f6b3e825587
+  - seq: 12
+    filename: KR3e0090_012.yaml
+    hash: sha256:01ec1c0d8169dc93dceba2f86f55772833ce7c5000aecc7ca9be2f79789dc7df
+  - seq: 13
+    filename: KR3e0090_013.yaml
+    hash: sha256:1fcaf86d48d44cf5cd5022d9acacfc4ce4e3a528fa2878728f5e3d3dd90e3055
+  - seq: 14
+    filename: KR3e0090_014.yaml
+    hash: sha256:cb122f8a785cccc3169506f13127ee87e87b6a452492c219c5628f2081880585
+  - seq: 15
+    filename: KR3e0090_015.yaml
+    hash: sha256:a5b395d2a8079d3e561e1953699d7cd98c2a1811af2f43f1eef2a7ec93340e17
+  - seq: 16
+    filename: KR3e0090_016.yaml
+    hash: sha256:bef50bd47fcccef4b67c07eb6cbd79893b853cff5bd9d90d60bf84a08b2e0a1f
+  - seq: 17
+    filename: KR3e0090_017.yaml
+    hash: sha256:d2980bc579667ceb8b45104586029be0f7f3779fa0f156d14518c574abd05479
+  - seq: 18
+    filename: KR3e0090_018.yaml
+    hash: sha256:c2d9160c0d24b0fbaf3741cd3734568714d2962874cf62452da5fe263eb9437c
+  - seq: 19
+    filename: KR3e0090_019.yaml
+    hash: sha256:95857cb836e1749a782b7d3db45a8b3475e7dd0256487b83cb82e3289bb0b79d
+  - seq: 20
+    filename: KR3e0090_020.yaml
+    hash: sha256:14eee67a6fa93b3afe6738540f09af481c557aadbe7d32a96341d74cff672c50
+  - seq: 21
+    filename: KR3e0090_021.yaml
+    hash: sha256:e5a859025086e43854c2d07290e2e9e693f8934a0d3526f965b01f26491957f6
+  - seq: 22
+    filename: KR3e0090_022.yaml
+    hash: sha256:7637e83592b8b19c8d70d72513b756af3af34668cc8669cccf91ec9ae7ded737
+  - seq: 23
+    filename: KR3e0090_023.yaml
+    hash: sha256:3ddf29e961954cb45583e3d71c062b93f94b2528610278a1b6d65638d5980d08
+  - seq: 24
+    filename: KR3e0090_024.yaml
+    hash: sha256:e0e2113f827ef93dea829a1ae60003936c2adcfadd2f82a349fd807d6b089a44
+  - seq: 25
+    filename: KR3e0090_025.yaml
+    hash: sha256:7f2ad32f3e8c32ce035777415b24307fafd4530161d368532899d7e107f4faf5
+  - seq: 26
+    filename: KR3e0090_026.yaml
+    hash: sha256:046d28141d006a878ccc817d5015fcfb4a5aa744c85fd2b5d57d38c7b3596ba7
+  - seq: 27
+    filename: KR3e0090_027.yaml
+    hash: sha256:8eb7941cd41af0e186d51e9a4d04c14f43e32c6b563fed790dd6a99756f12d8a
+  - seq: 28
+    filename: KR3e0090_028.yaml
+    hash: sha256:bcdec8b53a483c80bcf31d234c3b9d7b823aa86ba5cfd14b471d5cad847d7247
+  - seq: 29
+    filename: KR3e0090_029.yaml
+    hash: sha256:a0847960199df9451e5a5e69903b662b77e04aebfe703c2289bfac3e913e0a14
+  - seq: 30
+    filename: KR3e0090_030.yaml
+    hash: sha256:e7b5ed20de8b473c80ba86915955894efb7fef8119ad7a1efc498de179fa853f
+  - seq: 31
+    filename: KR3e0090_031.yaml
+    hash: sha256:0deda57a03b6f9d2d8dda630d64297c3586323c9c448f09b175570851e9ccb9d
+  - seq: 32
+    filename: KR3e0090_032.yaml
+    hash: sha256:1740e2bf831e71983564cef9f81adcb5796b5ed2dc278332849e769802f7f376
+  - seq: 33
+    filename: KR3e0090_033.yaml
+    hash: sha256:392143d4b4016c0c5040b24f0718fe2c42f955bf89866043d982278c22582eef
+  - seq: 34
+    filename: KR3e0090_034.yaml
+    hash: sha256:87ff43c03e9d4d21511cfeedcbcf45d7d4478b8b695ff59f2842b8d9022496bd
+  - seq: 35
+    filename: KR3e0090_035.yaml
+    hash: sha256:d322ddbcfe47677eec1940a5acd9243599cb0e2e525b0a3903e9dcfccb3ef9ce
+  - seq: 36
+    filename: KR3e0090_036.yaml
+    hash: sha256:7cfde0bb1b7d23e1314977fd8119b8e6316e0fe60ad1f3d92aaf7ec21e7e42f3
+  - seq: 37
+    filename: KR3e0090_037.yaml
+    hash: sha256:529d5c5cd8c2b6d8d61d584d3955b5f63c096440541ad1309b41d0de7b260e19
+  - seq: 38
+    filename: KR3e0090_038.yaml
+    hash: sha256:1f01ad901cbee2d9ff74525c62941de05f736366258e532dad9e13fdb0c844e7
+  - seq: 39
+    filename: KR3e0090_039.yaml
+    hash: sha256:c5467957264e4f82533f133be36952afaaec7b0b5c6dd4adbb2881e28343e7df
+  - seq: 40
+    filename: KR3e0090_040.yaml
+    hash: sha256:ff5cdf7ca32613b49de48ee76992cb8f0aefed1e7caf2ceb56eebb5722e3f0c7
+  - seq: 41
+    filename: KR3e0090_041.yaml
+    hash: sha256:8acffa55a7a178cf2fd3a746f86424f46de319f7e8d48f960b1e819f2d9645c8
+  - seq: 42
+    filename: KR3e0090_042.yaml
+    hash: sha256:4fdea923c1e1bd952d51a766672b9b7212bdfd695f07c99b3773e1845a3f808e
+  - seq: 43
+    filename: KR3e0090_043.yaml
+    hash: sha256:aa54cd4f5c617a43dcad471d6a9cff4894a89edf99bff71ba4eec515a06f3e95
+  - seq: 44
+    filename: KR3e0090_044.yaml
+    hash: sha256:a413988a6396cf0787a57a1ec9cdb3853f8db79f6dcc8757d1239d62ce4024f5
+  - seq: 45
+    filename: KR3e0090_045.yaml
+    hash: sha256:dee745f1cdc1ec744ea86c497fd87ad8f1e8039c21276ae7a94773254bdf4494
+  - seq: 46
+    filename: KR3e0090_046.yaml
+    hash: sha256:a14437d99a2c62c428de5db4c3396f2ad22841749b12182b904c8a02628355e1
+  - seq: 47
+    filename: KR3e0090_047.yaml
+    hash: sha256:c5934ae2b07c2a1f99bf67b4f778480746159509bc89ef60b8fc25ece052eb87
+  - seq: 48
+    filename: KR3e0090_048.yaml
+    hash: sha256:5e256a9609ade67bea2e8d4f45d8936759012fa53cc731875ad3e0e0c9612426
+  - seq: 49
+    filename: KR3e0090_049.yaml
+    hash: sha256:2482ba64a97a51e99f59f9e7d05ace736f53edf5bd5a4ce5bb2c867d5300d210
+  - seq: 50
+    filename: KR3e0090_050.yaml
+    hash: sha256:e4b2a14ff1abffc6a92fbfcfe40b09820a96f9213ef6852d47df21c840aecf85
+  - seq: 51
+    filename: KR3e0090_051.yaml
+    hash: sha256:4162b999892446587621d8f74e961185cb9f627f2fe5acfb1b818239d13e5a75
+  - seq: 52
+    filename: KR3e0090_052.yaml
+    hash: sha256:9aba4b4ae9fde337ab4bada43fe55499f245894fb2b6db13cda935ce864fabed
+  - seq: 53
+    filename: KR3e0090_053.yaml
+    hash: sha256:5bdf7e67508621bf1f96c10e16d5a7237bcd24b40f1f9d7c02b4595f219a6df7
+  - seq: 54
+    filename: KR3e0090_054.yaml
+    hash: sha256:c9dcaf77eadb91d7951fa045d146447e746a72de3b57f6bde60446f337383bab
+  - seq: 55
+    filename: KR3e0090_055.yaml
+    hash: sha256:e49983dc8d06bb188e6e3d1676c1a0459eda893b5c5fc913e66f17195267a6cb
+  - seq: 56
+    filename: KR3e0090_056.yaml
+    hash: sha256:90ae1b63abddb4c8ff699ff6ecd3055e4442a67346a3cf80cc545f89dd9dd5ee
+  - seq: 57
+    filename: KR3e0090_057.yaml
+    hash: sha256:80c62152d53e45ae43a8a506c0584f06a894709ae975e8a2337603f104effc72
+  - seq: 58
+    filename: KR3e0090_058.yaml
+    hash: sha256:09c87c5b849e8314613f0bc77c064f8b0eb37344fbaa1d832b09161b8ccdecad
+  - seq: 59
+    filename: KR3e0090_059.yaml
+    hash: sha256:4672284d260277b297ba9a156d61de15ab3b6f0f8566338420d38de1c22ea949
+  - seq: 60
+    filename: KR3e0090_060.yaml
+    hash: sha256:e30b142ce5c1478a9116428d214e0bde4f7f4b4aa7160b5cd0b0a5c5dc4fcbd2
+  - seq: 61
+    filename: KR3e0090_061.yaml
+    hash: sha256:d3a460615588550a115fd999113a1cc5ca9413f370315cb108634be4a61a5c33
+  - seq: 62
+    filename: KR3e0090_062.yaml
+    hash: sha256:2009e325825fb7500948d0450ad1b7d1a77041832a14e1f9f01f4248e5308a75
+  - seq: 63
+    filename: KR3e0090_063.yaml
+    hash: sha256:121082f9c2392dd3da405ee2797a5baa606b9bc944f6bbab6c273cc6604a6427
+  - seq: 64
+    filename: KR3e0090_064.yaml
+    hash: sha256:5a3bad82ab564801efe1f05811a5adfeb4285b6114d09ca055acd9281bfef3b1
+  - seq: 65
+    filename: KR3e0090_065.yaml
+    hash: sha256:dc7b8525d4298ca85b6105966dd01f62c019a250459aeddcdb9f0d7fdd1f480b
+  - seq: 66
+    filename: KR3e0090_066.yaml
+    hash: sha256:fb00af1051b38545781c7a4c4c3417b34b780b75949002428014acfae49ec571
+  - seq: 67
+    filename: KR3e0090_067.yaml
+    hash: sha256:917286ec79bd2288bd118ee16308c72195fd796f4a3ec10d8c8d8f54ddaaa63b
+  - seq: 68
+    filename: KR3e0090_068.yaml
+    hash: sha256:26094f8a25b0efa4602721013e7868c371202b5778b5588d52654b35114bef43
+  - seq: 69
+    filename: KR3e0090_069.yaml
+    hash: sha256:a4414bac714eff19d060f23d886b3e1c6872e37b388e3b599875330a0cf0f86e
+  - seq: 70
+    filename: KR3e0090_070.yaml
+    hash: sha256:bbfa4147beccf9a577aada01d3518e8e46b83b945f2c00b600ce883bbf77083a
+  - seq: 71
+    filename: KR3e0090_071.yaml
+    hash: sha256:4026bda9056961f8411aaffe27bbc2505fbe9132c79261c80faad53be6ed96ee
+  - seq: 72
+    filename: KR3e0090_072.yaml
+    hash: sha256:18126425e2c996c510640e0005cb877c46b5ac2eb56f7abf52630786f5c481b1
+  - seq: 73
+    filename: KR3e0090_073.yaml
+    hash: sha256:5b191e4a6ac4268af57ff9659dd57297a28b0a97c742625501af3498c0393a92
+  - seq: 74
+    filename: KR3e0090_074.yaml
+    hash: sha256:2b91bb359bce275a5678096174bf13d55c2d35bc414c936a17b24daf7bfd7182
+  - seq: 75
+    filename: KR3e0090_075.yaml
+    hash: sha256:50ed053c5584c99f9d95d9db8cfc713eb9e5205c67dca699ee76d52448980a6d
+  - seq: 76
+    filename: KR3e0090_076.yaml
+    hash: sha256:69833bea52e2eaabb5854c3c9af8cb6eec1f75687cf9f3a9486a1a78fbd50893
+  - seq: 77
+    filename: KR3e0090_077.yaml
+    hash: sha256:29468fa6136e4a91b10a259ddcb999dcac63415cdb49f63f0c87fc255e6ff651
+  - seq: 78
+    filename: KR3e0090_078.yaml
+    hash: sha256:6c23586d0ae3814fae086e10d0aa30f4b144f25e400fb4d1f51e3ffcde4fe7f6
+  - seq: 79
+    filename: KR3e0090_079.yaml
+    hash: sha256:05b271d5ea0d4497721f1b6fc39c201980d05d7db38139eaabfaffb232f2e771
+  - seq: 80
+    filename: KR3e0090_080.yaml
+    hash: sha256:20850f78bd063d7d8958347d9216e0d011a30738f774c4c6ff008171ab17402c
+  - seq: 81
+    filename: KR3e0090_081.yaml
+    hash: sha256:86cb138294e48dd1f9cc5e69290f854aeeb3b4788440c2c7622f928a4e9056fc
+  - seq: 82
+    filename: KR3e0090_082.yaml
+    hash: sha256:5bdbcde88bc658b48d41e2a795cec6cc565f9a48873aafbb8197bf39bb08fb02
+  - seq: 83
+    filename: KR3e0090_083.yaml
+    hash: sha256:244a2b813717bbc580a2082b53f8af11b81033e55462e5a0e77e303f649c4db1
+  - seq: 84
+    filename: KR3e0090_084.yaml
+    hash: sha256:b7b30085008df730ea1580aa08bff34785a29b5e7b8e1de25cd32f815cfc442b
+  - seq: 85
+    filename: KR3e0090_085.yaml
+    hash: sha256:2ae95115ac9fd13f96aefe47711492d6437dc7c6225c780fa209b789a477350d
+  - seq: 86
+    filename: KR3e0090_086.yaml
+    hash: sha256:a950e3886b12a6a9140528930b4427e28622157814c41c8d97c6449e0a12ac2d
+  - seq: 87
+    filename: KR3e0090_087.yaml
+    hash: sha256:4973aaf0bc555c013a63c54fa3ee2e1fadc2678fe07e7b5f4a73fbe62512b9a2
+  - seq: 88
+    filename: KR3e0090_088.yaml
+    hash: sha256:9a5833b8bce20921fc4a6c8650c72c0e597b2e201fa0a812306d8a4fccc70667
+  - seq: 89
+    filename: KR3e0090_089.yaml
+    hash: sha256:7b762226e648e28b9db540486297ae15346bb0253ce575eeace70164f2f79e8f
+  - seq: 90
+    filename: KR3e0090_090.yaml
+    hash: sha256:50ce777b0b4dcec7ce380ea75aae46026c2969ddaaa68aafaa1a87ca7effd353
+  markers:
+  - seq: 0
+    role: markers
+    filename: assets/KR3e0090_000.markers.yaml
+    hash: sha256:c933f9fb3bf376fc3d31ee4bae25792bc4081f82224f708368b1c528fb5d4f08
+  - seq: 1
+    role: markers
+    filename: assets/KR3e0090_001.markers.yaml
+    hash: sha256:a6c5aa6e2cc2b17798b611ee7efc4628a0104ca15dcf3dfc6e5014cb1c8c5aa8
+  - seq: 2
+    role: markers
+    filename: assets/KR3e0090_002.markers.yaml
+    hash: sha256:7f92bb28026e8767d8c6c7eeff28034b8cb60326650c492d9fdacacd09f7b7c5
+  - seq: 3
+    role: markers
+    filename: assets/KR3e0090_003.markers.yaml
+    hash: sha256:832ed988acc19e55ba43afe839d661f92d4a253a4548fce6f9aac54235736b17
+  - seq: 4
+    role: markers
+    filename: assets/KR3e0090_004.markers.yaml
+    hash: sha256:e97b676e28388fbee4a30880ff54c0d31b286e0cab893667cc4363e8309d01e0
+  - seq: 5
+    role: markers
+    filename: assets/KR3e0090_005.markers.yaml
+    hash: sha256:ec8b46651b65c7e884b9b4565b09415dd4a55bd87472ebccf515fffeeabb06c4
+  - seq: 6
+    role: markers
+    filename: assets/KR3e0090_006.markers.yaml
+    hash: sha256:6d85bb5f9fa5b249188329cb2bca2f834b3fb93ef3608d9a9d156d58b80fa0a6
+  - seq: 7
+    role: markers
+    filename: assets/KR3e0090_007.markers.yaml
+    hash: sha256:840f7a693fdd5cb6131da41c87fe8cc04a09562587f934014f017a2c8a0e6f5c
+  - seq: 8
+    role: markers
+    filename: assets/KR3e0090_008.markers.yaml
+    hash: sha256:f63927f8d15e21b2bc68e0ff8a2edbb6f6ed26a6a5bcc9b609dd86fe983254a0
+  - seq: 9
+    role: markers
+    filename: assets/KR3e0090_009.markers.yaml
+    hash: sha256:c42060ae72a037c3d88d31cca254d1f58b1985ce8f379306796c901ba6f50dba
+  - seq: 10
+    role: markers
+    filename: assets/KR3e0090_010.markers.yaml
+    hash: sha256:736fc6e04f3d8c8fd55967ce232bc116f7f19914c23ebe3afbe72cf2cbb68163
+  - seq: 11
+    role: markers
+    filename: assets/KR3e0090_011.markers.yaml
+    hash: sha256:9caf6dfb945d3eb358f25a9e2656b55774f0f26e77c5cc5ceae7b950600957cc
+  - seq: 12
+    role: markers
+    filename: assets/KR3e0090_012.markers.yaml
+    hash: sha256:bc3acd1d06a7221f2e89334a42a12a8a3890df62f64dd7c7d350192d939e6708
+  - seq: 13
+    role: markers
+    filename: assets/KR3e0090_013.markers.yaml
+    hash: sha256:2f55a48690344b743e9309e9e4affe0263f58d5e76ec9049a867b6cf0c375604
+  - seq: 14
+    role: markers
+    filename: assets/KR3e0090_014.markers.yaml
+    hash: sha256:b6bc94e5c8f0e43be569407eb061f69a72637f938cda06d45729c4797a32ce8e
+  - seq: 15
+    role: markers
+    filename: assets/KR3e0090_015.markers.yaml
+    hash: sha256:7bc1c915bb68193b169d431cd16743b1e1838d4b16cfaf8e27500ecb46148d21
+  - seq: 16
+    role: markers
+    filename: assets/KR3e0090_016.markers.yaml
+    hash: sha256:a5541ab0dcb4ac375ec74e3d601d76b8c6e986d0671c28527cb502544fdb38f3
+  - seq: 17
+    role: markers
+    filename: assets/KR3e0090_017.markers.yaml
+    hash: sha256:b6e9144ca16f83a585587fbefea3a72a0cb82aeac21ea1297ccedbb54b2eccb7
+  - seq: 18
+    role: markers
+    filename: assets/KR3e0090_018.markers.yaml
+    hash: sha256:f170dcd0f08916dbde116c35eceae711d2825696fb2e1dff312fe5d467ddd5c1
+  - seq: 19
+    role: markers
+    filename: assets/KR3e0090_019.markers.yaml
+    hash: sha256:407dae600a112b25d7a1d169a9b49f179e5dd2c55bcf3217b1fc754cb29aa80c
+  - seq: 20
+    role: markers
+    filename: assets/KR3e0090_020.markers.yaml
+    hash: sha256:03dab464fda5cef1ec73a6baae6db8badc72f2be4ef1061b086c29aa44a8f4b7
+  - seq: 21
+    role: markers
+    filename: assets/KR3e0090_021.markers.yaml
+    hash: sha256:576c20b8a41e8140939e47e8e39a83c6cf6a4df11c23f9e1ada04ff4498eebb8
+  - seq: 22
+    role: markers
+    filename: assets/KR3e0090_022.markers.yaml
+    hash: sha256:36e72f9f50c851db0e33070ad248d4041f750b8e4a6b8a063e3792a922352478
+  - seq: 23
+    role: markers
+    filename: assets/KR3e0090_023.markers.yaml
+    hash: sha256:939e545b91a26b328fe616a56f728f19cb15bb37a117fb838efe1efbddabad01
+  - seq: 24
+    role: markers
+    filename: assets/KR3e0090_024.markers.yaml
+    hash: sha256:fcefa6cca1564e9bce7fdf5c514faec45996d3821aff4faac5b82149dd1cbc49
+  - seq: 25
+    role: markers
+    filename: assets/KR3e0090_025.markers.yaml
+    hash: sha256:5c8da0d105c62e4e9e62ed88a4fcfcda58f266caf57a5324bcccb6d526a4f058
+  - seq: 26
+    role: markers
+    filename: assets/KR3e0090_026.markers.yaml
+    hash: sha256:f2ca6852324b1e1e29524af3e6709227614333d112392c71da660ef617584b65
+  - seq: 27
+    role: markers
+    filename: assets/KR3e0090_027.markers.yaml
+    hash: sha256:61279f73521fda77cc2820d6ca49238906024d57be813da1bca4887790c667e6
+  - seq: 28
+    role: markers
+    filename: assets/KR3e0090_028.markers.yaml
+    hash: sha256:b4f0a99363c1b22cc54e9010285e1261eac9e198557118e1a056c17ae3496bca
+  - seq: 29
+    role: markers
+    filename: assets/KR3e0090_029.markers.yaml
+    hash: sha256:d63fad3287b6bd9148d3a2926bc8195d161ee4d40e4fc8ab1684c9fc8188393a
+  - seq: 30
+    role: markers
+    filename: assets/KR3e0090_030.markers.yaml
+    hash: sha256:e02e78c1a98ad91d075cebcc58e15b3ac14f6cb162921027a360c5a407c076da
+  - seq: 31
+    role: markers
+    filename: assets/KR3e0090_031.markers.yaml
+    hash: sha256:b4ae3ba3f276528ecf4f0f8131c9bf9497c578e3e361bcbd86ad011ffbc09430
+  - seq: 32
+    role: markers
+    filename: assets/KR3e0090_032.markers.yaml
+    hash: sha256:1b3c480298c1ad62284ea04cb6e463e7ce2f9a66e377880cc1aac33ad86146f3
+  - seq: 33
+    role: markers
+    filename: assets/KR3e0090_033.markers.yaml
+    hash: sha256:e1bef3e2379a26aad827ea0503a6a1d6dc4b05c32f9eb61cd9ee266c05feee72
+  - seq: 34
+    role: markers
+    filename: assets/KR3e0090_034.markers.yaml
+    hash: sha256:057099615aea02bd9e8c48be546b094f047f14f9517f81daadf18f677f41cbe6
+  - seq: 35
+    role: markers
+    filename: assets/KR3e0090_035.markers.yaml
+    hash: sha256:9b03418f5967d3c74b3fd473702228a2882265dce38ff210134db938172c3a16
+  - seq: 36
+    role: markers
+    filename: assets/KR3e0090_036.markers.yaml
+    hash: sha256:1173720c8b806649e458cbbe34411eeb2fa012ab664c4aa7f5cd6b6d2fe43b0d
+  - seq: 37
+    role: markers
+    filename: assets/KR3e0090_037.markers.yaml
+    hash: sha256:1e5c0d220198dba28a8d2c115a7dda1e39f2098f36701c4cf09e02b4f6dab007
+  - seq: 38
+    role: markers
+    filename: assets/KR3e0090_038.markers.yaml
+    hash: sha256:b42f16d2b9914305974af1099330312e71f5218a8729a1e188cbd4954e7fe453
+  - seq: 39
+    role: markers
+    filename: assets/KR3e0090_039.markers.yaml
+    hash: sha256:4eeb63ecb64288bba1f5dfe7da58057d76d092ea47499a49bdf4c76fbc1bc443
+  - seq: 40
+    role: markers
+    filename: assets/KR3e0090_040.markers.yaml
+    hash: sha256:713e2a9d2a9c5162bcffe9a6517d95c8b7c940c026d3c308b4b964ad2f44319f
+  - seq: 41
+    role: markers
+    filename: assets/KR3e0090_041.markers.yaml
+    hash: sha256:52e09015a1d08f3854991add81313c2fb3d48e50623e5d138875a85e2b0e01cb
+  - seq: 42
+    role: markers
+    filename: assets/KR3e0090_042.markers.yaml
+    hash: sha256:deef161f466cf27853f6016931f1b170fe6763c2052cba78d6f4837cff2c3e5d
+  - seq: 43
+    role: markers
+    filename: assets/KR3e0090_043.markers.yaml
+    hash: sha256:75bbd1535a98ed27f615f4a30b717d01a9b73f6cb18aa190fcb8320aabf3ccc7
+  - seq: 44
+    role: markers
+    filename: assets/KR3e0090_044.markers.yaml
+    hash: sha256:b9e735d225e65660bedc805b165d58ec3e24da89c782b622311f34754c3007fb
+  - seq: 45
+    role: markers
+    filename: assets/KR3e0090_045.markers.yaml
+    hash: sha256:5a7e0c430c4d697b6beae07a17ba106bcdd3e89224a881e60cacbac1fd1da29c
+  - seq: 46
+    role: markers
+    filename: assets/KR3e0090_046.markers.yaml
+    hash: sha256:ce549c41052ddb9c43e874917bf3f52a5d3f52421af36363a4a52cdd53b2e042
+  - seq: 47
+    role: markers
+    filename: assets/KR3e0090_047.markers.yaml
+    hash: sha256:4b1ce4046993dae7063ae43c3d4b9c58f4572367eba5b5d81555ce5b3c39dec4
+  - seq: 48
+    role: markers
+    filename: assets/KR3e0090_048.markers.yaml
+    hash: sha256:312ef21bb40f18235dffc1b6960d3d1dedec585e72fb89df8642046f740db436
+  - seq: 49
+    role: markers
+    filename: assets/KR3e0090_049.markers.yaml
+    hash: sha256:979d846e5d5041ba254b4546f1b122a72076d8d40ee9eb05b0c09f45f5ce7ba7
+  - seq: 50
+    role: markers
+    filename: assets/KR3e0090_050.markers.yaml
+    hash: sha256:aaa430c840675ec89054015ad1c34d285c622cbe6a68dd73cb1dbfc94b993e10
+  - seq: 51
+    role: markers
+    filename: assets/KR3e0090_051.markers.yaml
+    hash: sha256:a629d472dc67a8e9940383d65a5fd5a54cd5f990114287ed6e7ebdb2beb190fc
+  - seq: 52
+    role: markers
+    filename: assets/KR3e0090_052.markers.yaml
+    hash: sha256:bad9d4268cb77e91c0645de22a4e2a600d047adeb43a4c9bded9a3522e7df0f7
+  - seq: 53
+    role: markers
+    filename: assets/KR3e0090_053.markers.yaml
+    hash: sha256:2d5a4be39fcf5f106059f6961bdcfb8b99b703c30836cbfa6b1af5daa5e8404f
+  - seq: 54
+    role: markers
+    filename: assets/KR3e0090_054.markers.yaml
+    hash: sha256:de92f6c83f2682db2fa03feafbb1bca525a78b56bbf56595997343fe0cb70ff0
+  - seq: 55
+    role: markers
+    filename: assets/KR3e0090_055.markers.yaml
+    hash: sha256:91270b522c528b4a46ef421023c68a60f03d213b05c6f98d42ed751d038fd881
+  - seq: 56
+    role: markers
+    filename: assets/KR3e0090_056.markers.yaml
+    hash: sha256:8ceb71562f57b1ab03318cbad00c28ae0f6d7c9bf4a22fe8cc8ffbc0a63caf27
+  - seq: 57
+    role: markers
+    filename: assets/KR3e0090_057.markers.yaml
+    hash: sha256:343dc313507aacd7dd843e66077c7837a075631758e3c47b82565ae513a85f83
+  - seq: 58
+    role: markers
+    filename: assets/KR3e0090_058.markers.yaml
+    hash: sha256:f7274b5d9d3561b3cb08cf9e45bc26a9c1e3436edfa044a4efe5cdfb17fe3734
+  - seq: 59
+    role: markers
+    filename: assets/KR3e0090_059.markers.yaml
+    hash: sha256:78c329151143b2cd111cf5b4a5b9968dbb822e098edb858586e1a7c66eb8d1fa
+  - seq: 60
+    role: markers
+    filename: assets/KR3e0090_060.markers.yaml
+    hash: sha256:5b4a820d6f47411e3c8ca7b96bca35bdfa2f6da7c75d187affcb9347681f2e33
+  - seq: 61
+    role: markers
+    filename: assets/KR3e0090_061.markers.yaml
+    hash: sha256:b4b4f377ca37928ec760ae3454b236e2ba42a0eb8cae2cd9a83780def813907f
+  - seq: 62
+    role: markers
+    filename: assets/KR3e0090_062.markers.yaml
+    hash: sha256:53223f8d71ab75a77de2ca22cf5c8a89941325bfa346f3651f79124d9bc9caf5
+  - seq: 63
+    role: markers
+    filename: assets/KR3e0090_063.markers.yaml
+    hash: sha256:4659bd42f6be3f3a309c7ae50f0a0083507b35e3327d6756fc39c536de95ab5d
+  - seq: 64
+    role: markers
+    filename: assets/KR3e0090_064.markers.yaml
+    hash: sha256:40e7d3427e3dee96ce984121286625029b5c89be8b77825574a211c20a687d7c
+  - seq: 65
+    role: markers
+    filename: assets/KR3e0090_065.markers.yaml
+    hash: sha256:6839e44a5d220b5c86cdcca937f7b8b6fb6f2934c36e13a98388ca57ad151c90
+  - seq: 66
+    role: markers
+    filename: assets/KR3e0090_066.markers.yaml
+    hash: sha256:578d01342fc8c6fac7254edfc31fa3fc554312fe9d2bd5dac427092b62a1e68f
+  - seq: 67
+    role: markers
+    filename: assets/KR3e0090_067.markers.yaml
+    hash: sha256:70edd71773e85eeb65880cf7d23781854312be5222abdc1761acbff642bcf032
+  - seq: 68
+    role: markers
+    filename: assets/KR3e0090_068.markers.yaml
+    hash: sha256:8210354e96833fc988091a1feb92360b3486713402449a0611a1850cf5aebe29
+  - seq: 69
+    role: markers
+    filename: assets/KR3e0090_069.markers.yaml
+    hash: sha256:53a1d35ce8bf1a0304a4218b9eb915cef71496945862f64f7c6ff939e2cafc6b
+  - seq: 70
+    role: markers
+    filename: assets/KR3e0090_070.markers.yaml
+    hash: sha256:9fd07057a0016dbb2a7c45c09b27af2a23b5b3993ef7f6750e21e3ac7c2d4d72
+  - seq: 71
+    role: markers
+    filename: assets/KR3e0090_071.markers.yaml
+    hash: sha256:26c6a23fbfa87319ae389eac9ea661a63c0fe549442b5c02ab56b2136c23f592
+  - seq: 72
+    role: markers
+    filename: assets/KR3e0090_072.markers.yaml
+    hash: sha256:11e768afdc2ccbbe406f6ac177c56d8bd5a911abb9d9a75babef8e62f0af0cda
+  - seq: 73
+    role: markers
+    filename: assets/KR3e0090_073.markers.yaml
+    hash: sha256:204767efa8507e933d4ccb9e5b9d5cb52cb0cba5a8ea46ab7b3bbfa24e9a9a2d
+  - seq: 74
+    role: markers
+    filename: assets/KR3e0090_074.markers.yaml
+    hash: sha256:ab6e83c0e2049e180e6f061eea1033b78f5fb7316fd9133d2d7166d73730782c
+  - seq: 75
+    role: markers
+    filename: assets/KR3e0090_075.markers.yaml
+    hash: sha256:19a2590fe63317b5ffff6eebd1422bfa7421d90b2fcdc8ff426cd2642205cda3
+  - seq: 76
+    role: markers
+    filename: assets/KR3e0090_076.markers.yaml
+    hash: sha256:f4a4ee1205ae43c00f0ed62cc0098194ee2b9a1b09815cb0ad8beeb28c646721
+  - seq: 77
+    role: markers
+    filename: assets/KR3e0090_077.markers.yaml
+    hash: sha256:8c1d61197edf49aaf39fd9414cf3d10328bf1ea7e491a8d29f39b4160677f2ce
+  - seq: 78
+    role: markers
+    filename: assets/KR3e0090_078.markers.yaml
+    hash: sha256:ead6cfc179a26075531c5d607389d3dc9a990cb6b269df4d9dbe6ad5c23a6675
+  - seq: 79
+    role: markers
+    filename: assets/KR3e0090_079.markers.yaml
+    hash: sha256:7d766f2b8af557c1689d29d5cab2cd1452cdee690234803c2e439d35512fe570
+  - seq: 80
+    role: markers
+    filename: assets/KR3e0090_080.markers.yaml
+    hash: sha256:7ad02c92f56912c373cfcadcec945fca3346b4ff421e222d29ea1e81016ba24e
+  - seq: 81
+    role: markers
+    filename: assets/KR3e0090_081.markers.yaml
+    hash: sha256:8e0c9ae9214de80f3cbf9ca7179a130ef1be9029fbb5f95d0e3fcff2764a280c
+  - seq: 82
+    role: markers
+    filename: assets/KR3e0090_082.markers.yaml
+    hash: sha256:c0c473c71ecb895a7401ad324fb365114580787f42e251cb2418c4035d6686d2
+  - seq: 83
+    role: markers
+    filename: assets/KR3e0090_083.markers.yaml
+    hash: sha256:00ba698feb60dcd3972f13d5511da290c9b6fd7d19f95f081ff324900e170843
+  - seq: 84
+    role: markers
+    filename: assets/KR3e0090_084.markers.yaml
+    hash: sha256:c5ec49e8632018b332a3cbe7f5cb566ecdaf5245d6fdb2b9ca6bac80d7dd055e
+  - seq: 85
+    role: markers
+    filename: assets/KR3e0090_085.markers.yaml
+    hash: sha256:018a0eb6a31adceff092542ac24d384a3f3cd981757568c024da5e0418efe426
+  - seq: 86
+    role: markers
+    filename: assets/KR3e0090_086.markers.yaml
+    hash: sha256:cd27fdfa14b3165007f1a43564133bfeddef6b0cf2a066c2e5901c50bda59e57
+  - seq: 87
+    role: markers
+    filename: assets/KR3e0090_087.markers.yaml
+    hash: sha256:a1cd2f8d0c20fd2d367e449e48ca866213a9d676296310b1e09323c1f2e7ac37
+  - seq: 88
+    role: markers
+    filename: assets/KR3e0090_088.markers.yaml
+    hash: sha256:c117f5cc899d81a356595c52cdf14eadd1f039945e4bc0da6f57193046e2519d
+  - seq: 89
+    role: markers
+    filename: assets/KR3e0090_089.markers.yaml
+    hash: sha256:7e5b8b0bf80dabb09a72718748de7cb8f45ee14b9712877c8411776446fd1d45
+  - seq: 90
+    role: markers
+    filename: assets/KR3e0090_090.markers.yaml
+    hash: sha256:3b7cd2d3ddee545840edd2217cca3ad96df4fef8118c4de3d463359acaa7a479
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0090_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 642
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0090_WYG_000-4a
+    span:
+    - body
+    - 642
+    - 2841
+  label: 首卷奏疏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0090_WYG_000-14a
+    span:
+    - body
+    - 2841
+    - 3533
+  label: 首卷表
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0090_WYG_000-18a
+    span:
+    - body
+    - 3533
+    - 4571
+  label: 首卷諸臣職名
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0090_WYG_000-24a
+    span:
+    - body
+    - 4571
+    - 6644
+  label: 首卷總目
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0090_WYG_000-49a
+    span:
+    - body
+    - 6644
+    - 8007
+  label: 首卷凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0090_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 901
+  label: 卷一凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0090_WYG_001-5a
+    span:
+    - body
+    - 901
+    - 1816
+  label: 卷一凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0090_WYG_001-9a
+    span:
+    - body
+    - 1816
+    - 1938
+  label: 卷一目録
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0090_WYG_001-11a
+    span:
+    - body
+    - 1938
+    - 2060
+  label: 卷一目録
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0090_WYG_001-13a
+    span:
+    - body
+    - 2060
+    - 23603
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3e0090_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 164
+  label: 卷二目録
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3e0090_WYG_002-3a
+    span:
+    - body
+    - 164
+    - 342
+  label: 卷二目録
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3e0090_WYG_002-5a
+    span:
+    - body
+    - 342
+    - 22616
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3e0090_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 65
+  label: 卷三目録
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3e0090_WYG_003-2a
+    span:
+    - body
+    - 65
+    - 144
+  label: 卷三目録
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3e0090_WYG_003-3a
+    span:
+    - body
+    - 144
+    - 9724
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3e0090_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 85
+  label: 卷四目録
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3e0090_WYG_004-3a
+    span:
+    - body
+    - 85
+    - 184
+  label: 卷四目録
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3e0090_WYG_004-5a
+    span:
+    - body
+    - 184
+    - 28113
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3e0090_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 55
+  label: 卷五目録
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3e0090_WYG_005-2a
+    span:
+    - body
+    - 55
+    - 124
+  label: 卷五目録
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3e0090_WYG_005-3a
+    span:
+    - body
+    - 124
+    - 12715
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3e0090_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 61
+  label: 卷六目録
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3e0090_WYG_006-2a
+    span:
+    - body
+    - 61
+    - 136
+  label: 卷六目録
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3e0090_WYG_006-3a
+    span:
+    - body
+    - 136
+    - 5473
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3e0090_WYG_006-24a
+    span:
+    - body
+    - 5473
+    - 10810
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3e0090_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 96
+  label: 卷七目録
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3e0090_WYG_007-3a
+    span:
+    - body
+    - 96
+    - 206
+  label: 卷七目録
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3e0090_WYG_007-5a
+    span:
+    - body
+    - 206
+    - 17007
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3e0090_WYG_008-1a
+    span:
+    - body
+    - 0
+    - 49
+  label: 卷八目録
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3e0090_WYG_008-2a
+    span:
+    - body
+    - 49
+    - 112
+  label: 卷八目録
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3e0090_WYG_008-3a
+    span:
+    - body
+    - 112
+    - 12841
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3e0090_WYG_009-1a
+    span:
+    - body
+    - 0
+    - 47
+  label: 卷九目録
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3e0090_WYG_009-2a
+    span:
+    - body
+    - 47
+    - 108
+  label: 卷九目録
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3e0090_WYG_009-3a
+    span:
+    - body
+    - 108
+    - 5123
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3e0090_WYG_009-22a
+    span:
+    - body
+    - 5123
+    - 10138
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3e0090_WYG_010-1a
+    span:
+    - body
+    - 0
+    - 56
+  label: 卷十目録
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3e0090_WYG_010-2a
+    span:
+    - body
+    - 56
+    - 126
+  label: 卷十目録
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3e0090_WYG_010-3a
+    span:
+    - body
+    - 126
+    - 2761
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3e0090_WYG_010-14a
+    span:
+    - body
+    - 2761
+    - 5396
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3e0090_WYG_011-1a
+    span:
+    - body
+    - 0
+    - 90
+  label: 卷十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3e0090_WYG_011-2a
+    span:
+    - body
+    - 90
+    - 195
+  label: 卷十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3e0090_WYG_011-3a
+    span:
+    - body
+    - 195
+    - 8552
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3e0090_WYG_011-35a
+    span:
+    - body
+    - 8552
+    - 16909
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3e0090_WYG_012-1a
+    span:
+    - body
+    - 0
+    - 26
+  label: 卷十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3e0090_WYG_012-2a
+    span:
+    - body
+    - 26
+    - 67
+  label: 卷十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3e0090_WYG_012-3a
+    span:
+    - body
+    - 67
+    - 2072
+  label: 卷十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3e0090_WYG_012-10a
+    span:
+    - body
+    - 2072
+    - 4077
+  label: 卷十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3e0090_WYG_013-1a
+    span:
+    - body
+    - 0
+    - 50
+  label: 卷十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3e0090_WYG_013-2a
+    span:
+    - body
+    - 50
+    - 115
+  label: 卷十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3e0090_WYG_013-3a
+    span:
+    - body
+    - 115
+    - 6313
+  label: 卷十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3e0090_WYG_013-26a
+    span:
+    - body
+    - 6313
+    - 12511
+  label: 卷十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3e0090_WYG_014-1a
+    span:
+    - body
+    - 0
+    - 32
+  label: 卷十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3e0090_WYG_014-2a
+    span:
+    - body
+    - 32
+    - 79
+  label: 卷十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3e0090_WYG_014-3a
+    span:
+    - body
+    - 79
+    - 2962
+  label: 卷十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3e0090_WYG_014-14a
+    span:
+    - body
+    - 2962
+    - 5845
+  label: 卷十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3e0090_WYG_015-1a
+    span:
+    - body
+    - 0
+    - 64
+  label: 卷十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3e0090_WYG_015-2a
+    span:
+    - body
+    - 64
+    - 143
+  label: 卷十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3e0090_WYG_015-3a
+    span:
+    - body
+    - 143
+    - 9895
+  label: 卷十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3e0090_WYG_016-1a
+    span:
+    - body
+    - 0
+    - 27
+  label: 卷十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3e0090_WYG_016-2a
+    span:
+    - body
+    - 27
+    - 69
+  label: 卷十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3e0090_WYG_016-3a
+    span:
+    - body
+    - 69
+    - 19219
+  label: 卷十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3e0090_WYG_017-1a
+    span:
+    - body
+    - 0
+    - 51
+  label: 卷十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3e0090_WYG_017-2a
+    span:
+    - body
+    - 51
+    - 117
+  label: 卷十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3e0090_WYG_017-3a
+    span:
+    - body
+    - 117
+    - 12411
+  label: 卷十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3e0090_WYG_018-1a
+    span:
+    - body
+    - 0
+    - 100
+  label: 卷十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3e0090_WYG_018-3a
+    span:
+    - body
+    - 100
+    - 215
+  label: 卷十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3e0090_WYG_018-5a
+    span:
+    - body
+    - 215
+    - 12361
+  label: 卷十八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3e0090_WYG_019-1a
+    span:
+    - body
+    - 0
+    - 230
+  label: 卷十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3e0090_WYG_019-4a
+    span:
+    - body
+    - 230
+    - 475
+  label: 卷十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3e0090_WYG_019-7a
+    span:
+    - body
+    - 475
+    - 18978
+  label: 卷十九
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3e0090_WYG_020-1a
+    span:
+    - body
+    - 0
+    - 238
+  label: 卷二十目録
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3e0090_WYG_020-4a
+    span:
+    - body
+    - 238
+    - 491
+  label: 卷二十目録
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3e0090_WYG_020-7a
+    span:
+    - body
+    - 491
+    - 15384
+  label: 卷二十
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3e0090_WYG_021-1a
+    span:
+    - body
+    - 0
+    - 268
+  label: 卷二十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3e0090_WYG_021-4a
+    span:
+    - body
+    - 268
+    - 552
+  label: 卷二十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3e0090_WYG_021-7a
+    span:
+    - body
+    - 552
+    - 19498
+  label: 卷二十一
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3e0090_WYG_022-1a
+    span:
+    - body
+    - 0
+    - 229
+  label: 卷二十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3e0090_WYG_022-4a
+    span:
+    - body
+    - 229
+    - 474
+  label: 卷二十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3e0090_WYG_022-7a
+    span:
+    - body
+    - 474
+    - 15582
+  label: 卷二十二
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3e0090_WYG_023-1a
+    span:
+    - body
+    - 0
+    - 302
+  label: 卷二十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3e0090_WYG_023-5a
+    span:
+    - body
+    - 302
+    - 620
+  label: 卷二十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3e0090_WYG_023-9a
+    span:
+    - body
+    - 620
+    - 13110
+  label: 卷二十三
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3e0090_WYG_024-1a
+    span:
+    - body
+    - 0
+    - 294
+  label: 卷二十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3e0090_WYG_024-4a
+    span:
+    - body
+    - 294
+    - 604
+  label: 卷二十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3e0090_WYG_024-7a
+    span:
+    - body
+    - 604
+    - 8451
+  label: 卷二十四
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3e0090_WYG_024-44a
+    span:
+    - body
+    - 8451
+    - 16298
+  label: 卷二十四
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3e0090_WYG_025-1a
+    span:
+    - body
+    - 0
+    - 25
+  label: 卷二十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3e0090_WYG_025-2a
+    span:
+    - body
+    - 25
+    - 66
+  label: 卷二十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3e0090_WYG_025-3a
+    span:
+    - body
+    - 66
+    - 8841
+  label: 卷二十五
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3e0090_WYG_025-38a
+    span:
+    - body
+    - 8841
+    - 17616
+  label: 卷二十五
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3e0090_WYG_026-1a
+    span:
+    - body
+    - 0
+    - 122
+  label: 卷二十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3e0090_WYG_026-3a
+    span:
+    - body
+    - 122
+    - 260
+  label: 卷二十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3e0090_WYG_026-5a
+    span:
+    - body
+    - 260
+    - 7921
+  label: 卷二十六
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3e0090_WYG_026-48a
+    span:
+    - body
+    - 7921
+    - 15582
+  label: 卷二十六
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3e0090_WYG_027-1a
+    span:
+    - body
+    - 0
+    - 131
+  label: 卷二十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3e0090_WYG_027-3a
+    span:
+    - body
+    - 131
+    - 278
+  label: 卷二十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3e0090_WYG_027-5a
+    span:
+    - body
+    - 278
+    - 9363
+  label: 卷二十七
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3e0090_WYG_028-1a
+    span:
+    - body
+    - 0
+    - 127
+  label: 卷二十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3e0090_WYG_028-3a
+    span:
+    - body
+    - 127
+    - 270
+  label: 卷二十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3e0090_WYG_028-5a
+    span:
+    - body
+    - 270
+    - 7513
+  label: 卷二十八
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3e0090_WYG_028-46a
+    span:
+    - body
+    - 7513
+    - 14756
+  label: 卷二十八
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3e0090_WYG_029-1a
+    span:
+    - body
+    - 0
+    - 142
+  label: 卷二十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3e0090_WYG_029-4a
+    span:
+    - body
+    - 142
+    - 300
+  label: 卷二十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3e0090_WYG_029-7a
+    span:
+    - body
+    - 300
+    - 7492
+  label: 卷二十九
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3e0090_WYG_029-48a
+    span:
+    - body
+    - 7492
+    - 14684
+  label: 卷二十九
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3e0090_WYG_030-1a
+    span:
+    - body
+    - 0
+    - 121
+  label: 卷三十目録
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3e0090_WYG_030-3a
+    span:
+    - body
+    - 121
+    - 257
+  label: 卷三十目録
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3e0090_WYG_030-5a
+    span:
+    - body
+    - 257
+    - 8315
+  label: 卷三十
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3e0090_WYG_030-48a
+    span:
+    - body
+    - 8315
+    - 16373
+  label: 卷三十
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR3e0090_WYG_031-1a
+    span:
+    - body
+    - 0
+    - 176
+  label: 卷三十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR3e0090_WYG_031-4a
+    span:
+    - body
+    - 176
+    - 368
+  label: 卷三十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR3e0090_WYG_031-7a
+    span:
+    - body
+    - 368
+    - 10199
+  label: 卷三十一
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR3e0090_WYG_032-1a
+    span:
+    - body
+    - 0
+    - 144
+  label: 卷三十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR3e0090_WYG_032-3a
+    span:
+    - body
+    - 144
+    - 304
+  label: 卷三十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR3e0090_WYG_032-5a
+    span:
+    - body
+    - 304
+    - 6683
+  label: 卷三十二
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR3e0090_WYG_032-39a
+    span:
+    - body
+    - 6683
+    - 13062
+  label: 卷三十二
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR3e0090_WYG_033-1a
+    span:
+    - body
+    - 0
+    - 118
+  label: 卷三十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR3e0090_WYG_033-3a
+    span:
+    - body
+    - 118
+    - 252
+  label: 卷三十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR3e0090_WYG_033-5a
+    span:
+    - body
+    - 252
+    - 7033
+  label: 卷三十三
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR3e0090_WYG_033-44a
+    span:
+    - body
+    - 7033
+    - 13814
+  label: 卷三十三
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR3e0090_WYG_034-1a
+    span:
+    - body
+    - 0
+    - 32
+  label: 卷三十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR3e0090_WYG_034-2a
+    span:
+    - body
+    - 32
+    - 80
+  label: 卷三十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR3e0090_WYG_034-3a
+    span:
+    - body
+    - 80
+    - 19834
+  label: 卷三十四
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR3e0090_WYG_035-1a
+    span:
+    - body
+    - 0
+    - 394
+  label: 卷三十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR3e0090_WYG_035-5a
+    span:
+    - body
+    - 394
+    - 804
+  label: 卷三十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR3e0090_WYG_035-9a
+    span:
+    - body
+    - 804
+    - 15433
+  label: 卷三十五
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR3e0090_WYG_036-1a
+    span:
+    - body
+    - 0
+    - 242
+  label: 卷三十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR3e0090_WYG_036-4a
+    span:
+    - body
+    - 242
+    - 500
+  label: 卷三十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR3e0090_WYG_036-7a
+    span:
+    - body
+    - 500
+    - 8448
+  label: 卷三十六
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR3e0090_WYG_036-37a
+    span:
+    - body
+    - 8448
+    - 16396
+  label: 卷三十六
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR3e0090_WYG_037-1a
+    span:
+    - body
+    - 0
+    - 205
+  label: 卷三十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR3e0090_WYG_037-5a
+    span:
+    - body
+    - 205
+    - 426
+  label: 卷三十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR3e0090_WYG_037-9a
+    span:
+    - body
+    - 426
+    - 10711
+  label: 卷三十七
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR3e0090_WYG_038-1a
+    span:
+    - body
+    - 0
+    - 85
+  label: 卷三十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR3e0090_WYG_038-2a
+    span:
+    - body
+    - 85
+    - 186
+  label: 卷三十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR3e0090_WYG_038-3a
+    span:
+    - body
+    - 186
+    - 8700
+  label: 卷三十八
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR3e0090_WYG_038-40a
+    span:
+    - body
+    - 8700
+    - 17214
+  label: 卷三十八
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR3e0090_WYG_039-1a
+    span:
+    - body
+    - 0
+    - 38
+  label: 卷三十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR3e0090_WYG_039-2a
+    span:
+    - body
+    - 38
+    - 92
+  label: 卷三十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR3e0090_WYG_039-3a
+    span:
+    - body
+    - 92
+    - 9103
+  label: 卷三十九
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR3e0090_WYG_039-45a
+    span:
+    - body
+    - 9103
+    - 18114
+  label: 卷三十九
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR3e0090_WYG_040-1a
+    span:
+    - body
+    - 0
+    - 35
+  label: 卷四十目録
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR3e0090_WYG_040-2a
+    span:
+    - body
+    - 35
+    - 85
+  label: 卷四十目録
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR3e0090_WYG_040-3a
+    span:
+    - body
+    - 85
+    - 10181
+  label: 卷四十
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR3e0090_WYG_041-1a
+    span:
+    - body
+    - 0
+    - 47
+  label: 卷四十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR3e0090_WYG_041-2a
+    span:
+    - body
+    - 47
+    - 110
+  label: 卷四十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR3e0090_WYG_041-3a
+    span:
+    - body
+    - 110
+    - 8063
+  label: 卷四十一
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR3e0090_WYG_041-39a
+    span:
+    - body
+    - 8063
+    - 16016
+  label: 卷四十一
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR3e0090_WYG_042-1a
+    span:
+    - body
+    - 0
+    - 42
+  label: 卷四十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR3e0090_WYG_042-2a
+    span:
+    - body
+    - 42
+    - 100
+  label: 卷四十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR3e0090_WYG_042-3a
+    span:
+    - body
+    - 100
+    - 7858
+  label: 卷四十二
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR3e0090_WYG_042-41a
+    span:
+    - body
+    - 7858
+    - 15616
+  label: 卷四十二
+  type: section
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR3e0090_WYG_043-1a
+    span:
+    - body
+    - 0
+    - 58
+  label: 卷四十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR3e0090_WYG_043-2a
+    span:
+    - body
+    - 58
+    - 132
+  label: 卷四十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR3e0090_WYG_043-3a
+    span:
+    - body
+    - 132
+    - 7198
+  label: 卷四十三
+  type: section
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR3e0090_WYG_043-37a
+    span:
+    - body
+    - 7198
+    - 14264
+  label: 卷四十三
+  type: section
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR3e0090_WYG_044-1a
+    span:
+    - body
+    - 0
+    - 533
+  label: 卷四十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR3e0090_WYG_044-8a
+    span:
+    - body
+    - 533
+    - 1082
+  label: 卷四十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR3e0090_WYG_044-15a
+    span:
+    - body
+    - 1082
+    - 9234
+  label: 卷四十四
+  type: section
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR3e0090_WYG_044-59a
+    span:
+    - body
+    - 9234
+    - 17386
+  label: 卷四十四
+  type: section
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR3e0090_WYG_045-1a
+    span:
+    - body
+    - 0
+    - 314
+  label: 卷四十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR3e0090_WYG_045-6a
+    span:
+    - body
+    - 314
+    - 644
+  label: 卷四十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR3e0090_WYG_045-11a
+    span:
+    - body
+    - 644
+    - 7629
+  label: 卷四十五
+  type: section
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR3e0090_WYG_045-47a
+    span:
+    - body
+    - 7629
+    - 14614
+  label: 卷四十五
+  type: section
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR3e0090_WYG_046-1a
+    span:
+    - body
+    - 0
+    - 331
+  label: 卷四十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR3e0090_WYG_046-6a
+    span:
+    - body
+    - 331
+    - 678
+  label: 卷四十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR3e0090_WYG_046-11a
+    span:
+    - body
+    - 678
+    - 6817
+  label: 卷四十六
+  type: section
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR3e0090_WYG_046-44a
+    span:
+    - body
+    - 6817
+    - 12956
+  label: 卷四十六
+  type: section
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR3e0090_WYG_047-1a
+    span:
+    - body
+    - 0
+    - 427
+  label: 卷四十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR3e0090_WYG_047-8a
+    span:
+    - body
+    - 427
+    - 870
+  label: 卷四十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR3e0090_WYG_047-15a
+    span:
+    - body
+    - 870
+    - 6581
+  label: 卷四十七
+  type: section
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR3e0090_WYG_047-41a
+    span:
+    - body
+    - 6581
+    - 12292
+  label: 卷四十七
+  type: section
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR3e0090_WYG_048-1a
+    span:
+    - body
+    - 0
+    - 335
+  label: 卷四十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR3e0090_WYG_048-6a
+    span:
+    - body
+    - 335
+    - 686
+  label: 卷四十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR3e0090_WYG_048-11a
+    span:
+    - body
+    - 686
+    - 5598
+  label: 卷四十八
+  type: section
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR3e0090_WYG_048-39a
+    span:
+    - body
+    - 5598
+    - 10510
+  label: 卷四十八
+  type: section
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR3e0090_WYG_049-1a
+    span:
+    - body
+    - 0
+    - 412
+  label: 卷四十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR3e0090_WYG_049-7a
+    span:
+    - body
+    - 412
+    - 840
+  label: 卷四十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR3e0090_WYG_049-13a
+    span:
+    - body
+    - 840
+    - 5705
+  label: 卷四十九
+  type: section
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR3e0090_WYG_049-40a
+    span:
+    - body
+    - 5705
+    - 10570
+  label: 卷四十九
+  type: section
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR3e0090_WYG_050-1a
+    span:
+    - body
+    - 0
+    - 301
+  label: 卷五十目録
+  type: section
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR3e0090_WYG_050-7a
+    span:
+    - body
+    - 301
+    - 617
+  label: 卷五十目録
+  type: section
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR3e0090_WYG_050-13a
+    span:
+    - body
+    - 617
+    - 9377
+  label: 卷五十
+  type: section
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR3e0090_WYG_050-60a
+    span:
+    - body
+    - 9377
+    - 18137
+  label: 卷五十
+  type: section
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR3e0090_WYG_051-1a
+    span:
+    - body
+    - 0
+    - 391
+  label: 卷五十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR3e0090_WYG_051-8a
+    span:
+    - body
+    - 391
+    - 798
+  label: 卷五十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR3e0090_WYG_051-15a
+    span:
+    - body
+    - 798
+    - 8704
+  label: 卷五十一
+  type: section
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR3e0090_WYG_051-61a
+    span:
+    - body
+    - 8704
+    - 16610
+  label: 卷五十一
+  type: section
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR3e0090_WYG_052-1a
+    span:
+    - body
+    - 0
+    - 446
+  label: 卷五十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR3e0090_WYG_052-9a
+    span:
+    - body
+    - 446
+    - 908
+  label: 卷五十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR3e0090_WYG_052-17a
+    span:
+    - body
+    - 908
+    - 9930
+  label: 卷五十二
+  type: section
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR3e0090_WYG_052-72a
+    span:
+    - body
+    - 9930
+    - 18952
+  label: 卷五十二
+  type: section
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR3e0090_WYG_053-1a
+    span:
+    - body
+    - 0
+    - 498
+  label: 卷五十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR3e0090_WYG_053-9a
+    span:
+    - body
+    - 498
+    - 1012
+  label: 卷五十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR3e0090_WYG_053-17a
+    span:
+    - body
+    - 1012
+    - 9285
+  label: 卷五十三
+  type: section
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR3e0090_WYG_053-69a
+    span:
+    - body
+    - 9285
+    - 17558
+  label: 卷五十三
+  type: section
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR3e0090_WYG_054-1a
+    span:
+    - body
+    - 0
+    - 366
+  label: 卷五十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR3e0090_WYG_054-8a
+    span:
+    - body
+    - 366
+    - 748
+  label: 卷五十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR3e0090_WYG_054-15a
+    span:
+    - body
+    - 748
+    - 7176
+  label: 卷五十四
+  type: section
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR3e0090_WYG_054-55a
+    span:
+    - body
+    - 7176
+    - 13604
+  label: 卷五十四
+  type: section
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR3e0090_WYG_055-1a
+    span:
+    - body
+    - 0
+    - 413
+  label: 卷五十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR3e0090_WYG_055-8a
+    span:
+    - body
+    - 413
+    - 842
+  label: 卷五十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR3e0090_WYG_055-15a
+    span:
+    - body
+    - 842
+    - 7725
+  label: 卷五十五
+  type: section
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR3e0090_WYG_055-57a
+    span:
+    - body
+    - 7725
+    - 14608
+  label: 卷五十五
+  type: section
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR3e0090_WYG_056-1a
+    span:
+    - body
+    - 0
+    - 356
+  label: 卷五十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR3e0090_WYG_056-6a
+    span:
+    - body
+    - 356
+    - 728
+  label: 卷五十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR3e0090_WYG_056-11a
+    span:
+    - body
+    - 728
+    - 12582
+  label: 卷五十六
+  type: section
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR3e0090_WYG_057-1a
+    span:
+    - body
+    - 0
+    - 647
+  label: 卷五十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR3e0090_WYG_057-12a
+    span:
+    - body
+    - 647
+    - 1310
+  label: 卷五十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR3e0090_WYG_057-23a
+    span:
+    - body
+    - 1310
+    - 7703
+  label: 卷五十七
+  type: section
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR3e0090_WYG_057-95a
+    span:
+    - body
+    - 7703
+    - 14096
+  label: 卷五十七
+  type: section
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR3e0090_WYG_058-1a
+    span:
+    - body
+    - 0
+    - 441
+  label: 卷五十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR3e0090_WYG_058-8a
+    span:
+    - body
+    - 441
+    - 898
+  label: 卷五十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR3e0090_WYG_058-15a
+    span:
+    - body
+    - 898
+    - 8289
+  label: 卷五十八
+  type: section
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR3e0090_WYG_058-59a
+    span:
+    - body
+    - 8289
+    - 15680
+  label: 卷五十八
+  type: section
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR3e0090_WYG_059-1a
+    span:
+    - body
+    - 0
+    - 429
+  label: 卷五十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR3e0090_WYG_059-8a
+    span:
+    - body
+    - 429
+    - 874
+  label: 卷五十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR3e0090_WYG_059-15a
+    span:
+    - body
+    - 874
+    - 7765
+  label: 卷五十九
+  type: section
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR3e0090_WYG_059-56a
+    span:
+    - body
+    - 7765
+    - 14656
+  label: 卷五十九
+  type: section
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR3e0090_WYG_060-1a
+    span:
+    - body
+    - 0
+    - 74
+  label: 卷六十目録
+  type: section
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR3e0090_WYG_060-3a
+    span:
+    - body
+    - 74
+    - 163
+  label: 卷六十目録
+  type: section
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR3e0090_WYG_060-5a
+    span:
+    - body
+    - 163
+    - 3916
+  label: 卷六十
+  type: section
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR3e0090_WYG_060-21a
+    span:
+    - body
+    - 3916
+    - 7669
+  label: 卷六十
+  type: section
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR3e0090_WYG_061-1a
+    span:
+    - body
+    - 0
+    - 191
+  label: 卷六十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR3e0090_WYG_061-3a
+    span:
+    - body
+    - 191
+    - 398
+  label: 卷六十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR3e0090_WYG_061-5a
+    span:
+    - body
+    - 398
+    - 15065
+  label: 卷六十一
+  type: section
+  level: 1
+- ref:
+    seq: 62
+    marker_id: KR3e0090_WYG_062-1a
+    span:
+    - body
+    - 0
+    - 427
+  label: 卷六十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 62
+    marker_id: KR3e0090_WYG_062-8a
+    span:
+    - body
+    - 427
+    - 870
+  label: 卷六十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 62
+    marker_id: KR3e0090_WYG_062-15a
+    span:
+    - body
+    - 870
+    - 16601
+  label: 卷六十二
+  type: section
+  level: 1
+- ref:
+    seq: 63
+    marker_id: KR3e0090_WYG_063-1a
+    span:
+    - body
+    - 0
+    - 123
+  label: 卷六十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 63
+    marker_id: KR3e0090_WYG_063-4a
+    span:
+    - body
+    - 123
+    - 262
+  label: 卷六十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 63
+    marker_id: KR3e0090_WYG_063-7a
+    span:
+    - body
+    - 262
+    - 10824
+  label: 卷六十三
+  type: section
+  level: 1
+- ref:
+    seq: 64
+    marker_id: KR3e0090_WYG_064-1a
+    span:
+    - body
+    - 0
+    - 135
+  label: 卷六十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 64
+    marker_id: KR3e0090_WYG_064-4a
+    span:
+    - body
+    - 135
+    - 286
+  label: 卷六十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 64
+    marker_id: KR3e0090_WYG_064-7a
+    span:
+    - body
+    - 286
+    - 11901
+  label: 卷六十四
+  type: section
+  level: 1
+- ref:
+    seq: 65
+    marker_id: KR3e0090_WYG_065-1a
+    span:
+    - body
+    - 0
+    - 135
+  label: 卷六十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 65
+    marker_id: KR3e0090_WYG_065-5a
+    span:
+    - body
+    - 135
+    - 286
+  label: 卷六十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 65
+    marker_id: KR3e0090_WYG_065-9a
+    span:
+    - body
+    - 286
+    - 10674
+  label: 卷六十五
+  type: section
+  level: 1
+- ref:
+    seq: 66
+    marker_id: KR3e0090_WYG_066-1a
+    span:
+    - body
+    - 0
+    - 127
+  label: 卷六十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 66
+    marker_id: KR3e0090_WYG_066-4a
+    span:
+    - body
+    - 127
+    - 270
+  label: 卷六十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 66
+    marker_id: KR3e0090_WYG_066-7a
+    span:
+    - body
+    - 270
+    - 10917
+  label: 卷六十六
+  type: section
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR3e0090_WYG_067-1a
+    span:
+    - body
+    - 0
+    - 100
+  label: 卷六十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR3e0090_WYG_067-4a
+    span:
+    - body
+    - 100
+    - 216
+  label: 卷六十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR3e0090_WYG_067-7a
+    span:
+    - body
+    - 216
+    - 7373
+  label: 卷六十七
+  type: section
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR3e0090_WYG_067-58a
+    span:
+    - body
+    - 7373
+    - 14530
+  label: 卷六十七
+  type: section
+  level: 1
+- ref:
+    seq: 68
+    marker_id: KR3e0090_WYG_068-1a
+    span:
+    - body
+    - 0
+    - 130
+  label: 卷六十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 68
+    marker_id: KR3e0090_WYG_068-4a
+    span:
+    - body
+    - 130
+    - 276
+  label: 卷六十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 68
+    marker_id: KR3e0090_WYG_068-7a
+    span:
+    - body
+    - 276
+    - 6005
+  label: 卷六十八
+  type: section
+  level: 1
+- ref:
+    seq: 68
+    marker_id: KR3e0090_WYG_068-61a
+    span:
+    - body
+    - 6005
+    - 11734
+  label: 卷六十八
+  type: section
+  level: 1
+- ref:
+    seq: 69
+    marker_id: KR3e0090_WYG_069-1a
+    span:
+    - body
+    - 0
+    - 75
+  label: 卷六十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 69
+    marker_id: KR3e0090_WYG_069-3a
+    span:
+    - body
+    - 75
+    - 166
+  label: 卷六十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 69
+    marker_id: KR3e0090_WYG_069-5a
+    span:
+    - body
+    - 166
+    - 9500
+  label: 卷六十九
+  type: section
+  level: 1
+- ref:
+    seq: 70
+    marker_id: KR3e0090_WYG_070-1a
+    span:
+    - body
+    - 0
+    - 84
+  label: 卷七十目録
+  type: section
+  level: 1
+- ref:
+    seq: 70
+    marker_id: KR3e0090_WYG_070-3a
+    span:
+    - body
+    - 84
+    - 183
+  label: 卷七十目録
+  type: section
+  level: 1
+- ref:
+    seq: 70
+    marker_id: KR3e0090_WYG_070-5a
+    span:
+    - body
+    - 183
+    - 6364
+  label: 卷七十
+  type: section
+  level: 1
+- ref:
+    seq: 70
+    marker_id: KR3e0090_WYG_070-52a
+    span:
+    - body
+    - 6364
+    - 12545
+  label: 卷七十
+  type: section
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR3e0090_WYG_071-1a
+    span:
+    - body
+    - 0
+    - 111
+  label: 卷七十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR3e0090_WYG_071-4a
+    span:
+    - body
+    - 111
+    - 238
+  label: 卷七十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR3e0090_WYG_071-7a
+    span:
+    - body
+    - 238
+    - 8294
+  label: 卷七十一
+  type: section
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR3e0090_WYG_071-73a
+    span:
+    - body
+    - 8294
+    - 16350
+  label: 卷七十一
+  type: section
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR3e0090_WYG_072-1a
+    span:
+    - body
+    - 0
+    - 45
+  label: 卷七十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR3e0090_WYG_072-2a
+    span:
+    - body
+    - 45
+    - 106
+  label: 卷七十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR3e0090_WYG_072-3a
+    span:
+    - body
+    - 106
+    - 8093
+  label: 卷七十二
+  type: section
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR3e0090_WYG_072-49a
+    span:
+    - body
+    - 8093
+    - 16080
+  label: 卷七十二
+  type: section
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR3e0090_WYG_073-1a
+    span:
+    - body
+    - 0
+    - 60
+  label: 卷七十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR3e0090_WYG_073-2a
+    span:
+    - body
+    - 60
+    - 136
+  label: 卷七十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR3e0090_WYG_073-3a
+    span:
+    - body
+    - 136
+    - 7393
+  label: 卷七十三
+  type: section
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR3e0090_WYG_073-50a
+    span:
+    - body
+    - 7393
+    - 14650
+  label: 卷七十三
+  type: section
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR3e0090_WYG_074-1a
+    span:
+    - body
+    - 0
+    - 103
+  label: 卷七十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR3e0090_WYG_074-3a
+    span:
+    - body
+    - 103
+    - 222
+  label: 卷七十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR3e0090_WYG_074-5a
+    span:
+    - body
+    - 222
+    - 6456
+  label: 卷七十四
+  type: section
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR3e0090_WYG_074-56a
+    span:
+    - body
+    - 6456
+    - 12690
+  label: 卷七十四
+  type: section
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR3e0090_WYG_075-1a
+    span:
+    - body
+    - 0
+    - 118
+  label: 卷七十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR3e0090_WYG_075-4a
+    span:
+    - body
+    - 118
+    - 252
+  label: 卷七十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR3e0090_WYG_075-7a
+    span:
+    - body
+    - 252
+    - 8312
+  label: 卷七十五
+  type: section
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR3e0090_WYG_075-60a
+    span:
+    - body
+    - 8312
+    - 16372
+  label: 卷七十五
+  type: section
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR3e0090_WYG_076-1a
+    span:
+    - body
+    - 0
+    - 161
+  label: 卷七十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR3e0090_WYG_076-4a
+    span:
+    - body
+    - 161
+    - 338
+  label: 卷七十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR3e0090_WYG_076-7a
+    span:
+    - body
+    - 338
+    - 7634
+  label: 卷七十六
+  type: section
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR3e0090_WYG_076-56a
+    span:
+    - body
+    - 7634
+    - 14930
+  label: 卷七十六
+  type: section
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR3e0090_WYG_077-1a
+    span:
+    - body
+    - 0
+    - 294
+  label: 卷七十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR3e0090_WYG_077-4a
+    span:
+    - body
+    - 294
+    - 604
+  label: 卷七十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR3e0090_WYG_077-7a
+    span:
+    - body
+    - 604
+    - 8324
+  label: 卷七十七
+  type: section
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR3e0090_WYG_077-48a
+    span:
+    - body
+    - 8324
+    - 16044
+  label: 卷七十七
+  type: section
+  level: 1
+- ref:
+    seq: 78
+    marker_id: KR3e0090_WYG_078-1a
+    span:
+    - body
+    - 0
+    - 436
+  label: 卷七十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 78
+    marker_id: KR3e0090_WYG_078-5a
+    span:
+    - body
+    - 436
+    - 888
+  label: 卷七十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 78
+    marker_id: KR3e0090_WYG_078-9a
+    span:
+    - body
+    - 888
+    - 12581
+  label: 卷七十八
+  type: section
+  level: 1
+- ref:
+    seq: 79
+    marker_id: KR3e0090_WYG_079-1a
+    span:
+    - body
+    - 0
+    - 502
+  label: 卷七十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 79
+    marker_id: KR3e0090_WYG_079-5a
+    span:
+    - body
+    - 502
+    - 1020
+  label: 卷七十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 79
+    marker_id: KR3e0090_WYG_079-9a
+    span:
+    - body
+    - 1020
+    - 9221
+  label: 卷七十九
+  type: section
+  level: 1
+- ref:
+    seq: 79
+    marker_id: KR3e0090_WYG_079-61a
+    span:
+    - body
+    - 9221
+    - 17422
+  label: 卷七十九
+  type: section
+  level: 1
+- ref:
+    seq: 80
+    marker_id: KR3e0090_WYG_080-1a
+    span:
+    - body
+    - 0
+    - 210
+  label: 卷八十目録
+  type: section
+  level: 1
+- ref:
+    seq: 80
+    marker_id: KR3e0090_WYG_080-3a
+    span:
+    - body
+    - 210
+    - 435
+  label: 卷八十目録
+  type: section
+  level: 1
+- ref:
+    seq: 80
+    marker_id: KR3e0090_WYG_080-5a
+    span:
+    - body
+    - 435
+    - 5780
+  label: 卷八十
+  type: section
+  level: 1
+- ref:
+    seq: 80
+    marker_id: KR3e0090_WYG_080-53a
+    span:
+    - body
+    - 5780
+    - 11125
+  label: 卷八十
+  type: section
+  level: 1
+- ref:
+    seq: 81
+    marker_id: KR3e0090_WYG_081-1a
+    span:
+    - body
+    - 0
+    - 185
+  label: 卷八十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 81
+    marker_id: KR3e0090_WYG_081-4a
+    span:
+    - body
+    - 185
+    - 386
+  label: 卷八十一目録
+  type: section
+  level: 1
+- ref:
+    seq: 81
+    marker_id: KR3e0090_WYG_081-7a
+    span:
+    - body
+    - 386
+    - 6163
+  label: 卷八十一
+  type: section
+  level: 1
+- ref:
+    seq: 81
+    marker_id: KR3e0090_WYG_081-40a
+    span:
+    - body
+    - 6163
+    - 11940
+  label: 卷八十一
+  type: section
+  level: 1
+- ref:
+    seq: 82
+    marker_id: KR3e0090_WYG_082-1a
+    span:
+    - body
+    - 0
+    - 205
+  label: 卷八十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 82
+    marker_id: KR3e0090_WYG_082-4a
+    span:
+    - body
+    - 205
+    - 426
+  label: 卷八十二目録
+  type: section
+  level: 1
+- ref:
+    seq: 82
+    marker_id: KR3e0090_WYG_082-7a
+    span:
+    - body
+    - 426
+    - 6133
+  label: 卷八十二
+  type: section
+  level: 1
+- ref:
+    seq: 82
+    marker_id: KR3e0090_WYG_082-39a
+    span:
+    - body
+    - 6133
+    - 11840
+  label: 卷八十二
+  type: section
+  level: 1
+- ref:
+    seq: 83
+    marker_id: KR3e0090_WYG_083-1a
+    span:
+    - body
+    - 0
+    - 185
+  label: 卷八十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 83
+    marker_id: KR3e0090_WYG_083-4a
+    span:
+    - body
+    - 185
+    - 386
+  label: 卷八十三目録
+  type: section
+  level: 1
+- ref:
+    seq: 83
+    marker_id: KR3e0090_WYG_083-7a
+    span:
+    - body
+    - 386
+    - 6527
+  label: 卷八十三
+  type: section
+  level: 1
+- ref:
+    seq: 83
+    marker_id: KR3e0090_WYG_083-41a
+    span:
+    - body
+    - 6527
+    - 12668
+  label: 卷八十三
+  type: section
+  level: 1
+- ref:
+    seq: 84
+    marker_id: KR3e0090_WYG_084-1a
+    span:
+    - body
+    - 0
+    - 286
+  label: 卷八十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 84
+    marker_id: KR3e0090_WYG_084-5a
+    span:
+    - body
+    - 286
+    - 588
+  label: 卷八十四目録
+  type: section
+  level: 1
+- ref:
+    seq: 84
+    marker_id: KR3e0090_WYG_084-9a
+    span:
+    - body
+    - 588
+    - 6082
+  label: 卷八十四
+  type: section
+  level: 1
+- ref:
+    seq: 84
+    marker_id: KR3e0090_WYG_084-47a
+    span:
+    - body
+    - 6082
+    - 11576
+  label: 卷八十四
+  type: section
+  level: 1
+- ref:
+    seq: 85
+    marker_id: KR3e0090_WYG_085-1a
+    span:
+    - body
+    - 0
+    - 109
+  label: 卷八十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 85
+    marker_id: KR3e0090_WYG_085-3a
+    span:
+    - body
+    - 109
+    - 234
+  label: 卷八十五目録
+  type: section
+  level: 1
+- ref:
+    seq: 85
+    marker_id: KR3e0090_WYG_085-5a
+    span:
+    - body
+    - 234
+    - 7969
+  label: 卷八十五
+  type: section
+  level: 1
+- ref:
+    seq: 85
+    marker_id: KR3e0090_WYG_085-43a
+    span:
+    - body
+    - 7969
+    - 15704
+  label: 卷八十五
+  type: section
+  level: 1
+- ref:
+    seq: 86
+    marker_id: KR3e0090_WYG_086-1a
+    span:
+    - body
+    - 0
+    - 398
+  label: 卷八十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 86
+    marker_id: KR3e0090_WYG_086-6a
+    span:
+    - body
+    - 398
+    - 812
+  label: 卷八十六目録
+  type: section
+  level: 1
+- ref:
+    seq: 86
+    marker_id: KR3e0090_WYG_086-11a
+    span:
+    - body
+    - 812
+    - 5781
+  label: 卷八十六
+  type: section
+  level: 1
+- ref:
+    seq: 86
+    marker_id: KR3e0090_WYG_086-52a
+    span:
+    - body
+    - 5781
+    - 10750
+  label: 卷八十六
+  type: section
+  level: 1
+- ref:
+    seq: 87
+    marker_id: KR3e0090_WYG_087-1a
+    span:
+    - body
+    - 0
+    - 227
+  label: 卷八十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 87
+    marker_id: KR3e0090_WYG_087-4a
+    span:
+    - body
+    - 227
+    - 470
+  label: 卷八十七目録
+  type: section
+  level: 1
+- ref:
+    seq: 87
+    marker_id: KR3e0090_WYG_087-7a
+    span:
+    - body
+    - 470
+    - 5241
+  label: 卷八十七
+  type: section
+  level: 1
+- ref:
+    seq: 87
+    marker_id: KR3e0090_WYG_087-43a
+    span:
+    - body
+    - 5241
+    - 10012
+  label: 卷八十七
+  type: section
+  level: 1
+- ref:
+    seq: 88
+    marker_id: KR3e0090_WYG_088-1a
+    span:
+    - body
+    - 0
+    - 90
+  label: 卷八十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 88
+    marker_id: KR3e0090_WYG_088-3a
+    span:
+    - body
+    - 90
+    - 196
+  label: 卷八十八目録
+  type: section
+  level: 1
+- ref:
+    seq: 88
+    marker_id: KR3e0090_WYG_088-5a
+    span:
+    - body
+    - 196
+    - 5998
+  label: 卷八十八
+  type: section
+  level: 1
+- ref:
+    seq: 88
+    marker_id: KR3e0090_WYG_088-45a
+    span:
+    - body
+    - 5998
+    - 11800
+  label: 卷八十八
+  type: section
+  level: 1
+- ref:
+    seq: 89
+    marker_id: KR3e0090_WYG_089-1a
+    span:
+    - body
+    - 0
+    - 102
+  label: 卷八十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 89
+    marker_id: KR3e0090_WYG_089-4a
+    span:
+    - body
+    - 102
+    - 220
+  label: 卷八十九目録
+  type: section
+  level: 1
+- ref:
+    seq: 89
+    marker_id: KR3e0090_WYG_089-7a
+    span:
+    - body
+    - 220
+    - 5687
+  label: 卷八十九
+  type: section
+  level: 1
+- ref:
+    seq: 89
+    marker_id: KR3e0090_WYG_089-46a
+    span:
+    - body
+    - 5687
+    - 11154
+  label: 卷八十九
+  type: section
+  level: 1
+- ref:
+    seq: 90
+    marker_id: KR3e0090_WYG_090-1a
+    span:
+    - body
+    - 0
+    - 102
+  label: 卷九十目録
+  type: section
+  level: 1
+- ref:
+    seq: 90
+    marker_id: KR3e0090_WYG_090-3a
+    span:
+    - body
+    - 102
+    - 219
+  label: 卷九十目録
+  type: section
+  level: 1
+- ref:
+    seq: 90
+    marker_id: KR3e0090_WYG_090-5a
+    span:
+    - body
+    - 219
+    - 5799
+  label: 卷九十
+  type: section
+  level: 1
+- ref:
+    seq: 90
+    marker_id: KR3e0090_WYG_090-41a
+    span:
+    - body
+    - 5799
+    - 11379
+  label: 卷九十
+  type: section
+  level: 1
+hash: sha256:c2651b7d290ae887023164c0b35ea85a92d74e2e527f78453ab5fd40eddd8234
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
